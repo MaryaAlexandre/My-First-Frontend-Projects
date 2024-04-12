@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pr-br">
+
+<head>
+  <title>RAW FOOD</title>
+  <link href="aula08.css" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="author" content="Marya Eduarda">
+</head>
+<style>
+  body {
+    text-align: center;
+    background-color: #FFFAF0;
+  }
+</style>
+
+<body>
+
+  <h1><img src="logo.png" alt="logo"></h1>
+  <h2><img src="destaque.png" alt="refeição formato bowl"></h2>
+  <ol>
+    <li>
+      <h2><a href="menu.html">Menu</a>
+
+    </li>
+  </ol>
+
+  <ul>
+    <li><img src="comida1.png" alt="torradinha" /></li>
+    <li><img src="comida2.png" alt="sopa" /></li>
+    <li><img src="comida3.png" alt="saladinha" /></li>
+    <li><img src="comida4.png" alt="bowl de frango" /></li>
+    <li><img src="comida5.png" alt="salada" /></li>
+    <li><img src="comida6.png" alt="farofa" /></li>
+
+  </ul>
+  <ul>
+    <li><img src="comida7.png" alt="bolinha de carne" />
+    <li><img src="comida8.png" alt="feijão verde" /></li>
+    <li><img src="comida9.png" alt="hamburguer" /></li>
+    <li><img src="comida10.png" alt="macarrão" /></li>
+    <li><img src="comida11.png" alt="salada com abacate" />
+    <li><img src="comida12.png" alt="arroz" /></li>
+
+  </ul>
+  <p>A comida natural é representada por alimentos como frutas, legumes e sementes, que já são normalmente
+    associados à cozinha sustentável. Esses alimentos são ricos em nutrientes, como vitaminais, fibras e minerais.
+    Além disso, não há adição de componentes nocivos como açúcar, sal e gordura.</p>
+  <adress>Rua Olinto Meira, 379, Cidade Alta</address>
+</body>
+
+</html>
