@@ -1,0 +1,69 @@
+ {
+   margin: 0;
+   padding: 0;
+ }
+
+ body {
+   background-color: #F9F1DC;
+   color: black;
+   font-family: Garamond;
+   text-align: center
+ }
+
+ ol {
+   list-style-type: square;
+   list-style-position: inside;
+   margin: 2em 0;
+ }
+
+ ul {
+   list-style-type: decimal;
+ }
+
+ li {
+   display: inline-block;
+ }
+
+ figure {
+   text-align: center;
+   border-top: 4px solid#cccc1e;
+   border-bottom: 4px solid#cccc1e;
+   margin: 2em;
+   /*mexe com bordas*/
+ }
+
+ h2 {
+   font-size: 3em;
+   font-style: garamond;
+ }
+
+ h2 a {
+   background-color: #FFA500;
+   display: inline-block;
+   padding: 0.2em;
+   text-decoration: none;
+   color: white;
+
+ }
+
+ h3 {
+   font-size: 2em;
+   font-style: garamond;
+ }
+
+ h3 a {
+   background-color: #489b1e;
+   display: inline-block;
+   padding: 0.2em;
+   text-decoration: none;
+   color: white;
+
+ }
+
+ p {
+   text-align: center;
+ }
+
+ h1 {
+   font-size: 4em;
+ }
